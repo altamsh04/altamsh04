@@ -16,7 +16,7 @@
   <p>
     <a href="https://www.linkedin.com/in/altamsh-bairagdar-324ab7254/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="altamsh-bairagdar" height="30" width="40" /></a>
     <a href="https://instagram.com/altamsh04" target="blank"><img align="center" src="https://www.logo.wine/a/logo/Instagram/Instagram-Logo.wine.svg" alt="altamsh04" height="40" width="50" /></a>
-    <a href="https://www.hackerrank.com/@bairagdaraltamsh" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-512.png" alt="@bairagdaraltamsh" height="35" width="40" /></a>
+    <a href="https://www.hackerrank.com/bairagdaraltamsh" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-512.png" alt="bairagdaraltamsh" height="35" width="40" /></a>
     <a href="https://auth.geeksforgeeks.org/user/altamsh04" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=AbQBhN9v62Ob&format=png" alt="altamsh04" height="30" width="40" /></a>
   </p>
 
