@@ -10,7 +10,7 @@
 
   - 💬 Ask me about **Tech**
   - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/altamsh-bairagdar-324ab7254)
-  - 🌱 I’m focusing on **DSA & MERN**
+  - 🌱 I’m focusing on **DSA, MERN & TECH**
 
   <h3>Connect with me:</h3>
   <p>
