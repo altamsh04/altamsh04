@@ -28,12 +28,12 @@
 
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=altamsh04&show_icons=true&locale=en&theme=tokyonight" alt="altamsh04" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=altamsh04&&theme=tokyonight" alt="altamsh04" />
+<!--   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=altamsh04&&theme=tokyonight" alt="altamsh04" /> -->
 </div>
 <br><br>
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/altamsh04">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=altamsh04&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="altamsh04" />
   </a>
-</div>
+</div> -->
 
