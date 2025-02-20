@@ -9,12 +9,12 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently working on **Linker**
-- 🎯 Looking for **Software Development Internship** opportunities
-- 📝 Writing articles regularly on [Medium](https://medium.com/@altamsh04)
-- 💬 Ask me about **Full Stack Development (React.js, Node.js, Express, MongoDB), Backend Architecture, Android Dev & Basic System Design**
+- 🔭 Currently working **@Embeetek** as SDE Freelancer
+- 🎯 Looking for **SDE Internship** opportunities
+- 📝 Writing articles on [Medium](https://medium.com/@altamsh04)
+- 💬 Ask me about **Full Stack Development, Backend Architectures, System Designs 🤏**
 - 📫 Reach me at **bairagdaraltamsh@gmail.com**
-- 👨‍💻 Open to collaborate on **interesting projects**
+- 👨‍💻 Open to collaborate on **Interesting Projects**
 
 ## 🤝 Connect with Me
 
