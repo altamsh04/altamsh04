@@ -12,7 +12,7 @@
 - 🔭 Currently working **@Embeetek** as SDE Freelancer
 - 🎯 Looking for **SDE Internship** opportunities
 - 📝 Writing articles on [Medium](https://medium.com/@altamsh04)
-- 💬 Ask me about **Full Stack Development, Backend Architectures, System Designs 🤏**
+- 💬 Ask me about **Full Stack Development, Backend Architectures, DSA & System Designs 🤏**
 - 📫 Reach me at **bairagdaraltamsh@gmail.com**
 - 👨‍💻 Open to collaborate on **Interesting Projects**
 
