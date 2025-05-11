@@ -1,7 +1,7 @@
 <div align="center">
   
 # 👋 Hi, I'm Altamsh Bairagdar
-### A Passionate Computer Science Student & Software Engineering Enthusiastic from India
+### A Passionate Computer Science Student & Software Engineering Enthusiastic
 
 [![Profile Views](https://komarev.com/ghpvc/?username=altamsh04&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/altamsh04)
 
@@ -9,6 +9,7 @@
 
 ## 👨‍💻 About Me
 
+- ✅ Learning Go and Backend Architectures
 - 🔭 Currently working **@Embeetek** as SDE Freelancer
 - 🎯 Looking for **SDE Internship** opportunities
 - 📝 Writing articles on [Medium](https://medium.com/@altamsh04)
