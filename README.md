@@ -27,7 +27,7 @@ _Remote_
 **[reminder-cli](https://www.npmjs.com/package/@altamsh04/reminder-cli)** — Task reminders from terminal (350+ downloads)  
 `Node.js` • `CLI` • `Productivity`
 
-**[NPM Analytics Pro](https://npm-analytics-pro.vercel.app/)** — Insights & trends for NPM modules  
+**[NPM Analytics Pro](https://npm-analytics-pro.altamsh.me/)** — Insights & trends for NPM modules  
 `Next.js` • `TailwindCSS` • `Vercel` • `NPM API`
 
 **[Ghibli Meme Maker](https://www.ghiblimemes.fun/)** — Turn Ghibli scenes into memes  
