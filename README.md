@@ -6,14 +6,14 @@
 Full stack developer focused on fullstack engineering. Skilled in building scalable, real-world products using modern stacks. Strong background in AI, API development, and full system design. 
 
 ## 💼 Experience  
-**📍 Software Developer – Embeetek Technologies** *(Jan 2025 – Jun 2025)*  
+**📍 Software Developer (Freelance) – Embeetek Technologies** *(Jan 2025 – Jun 2025)*  
 _Miraj, Hybrid_  
 - Delivered 5+ AI, image processing, and web projects  
 - Built REST APIs with team on IoT integration (Firebase + MQTT)  
 - Developed AI-powered smart glasses for sign language  
 **Stack:** React • Node.js • Firebase • MQTT • AI • ML • Computer Vision
 
-**📍 Software Developer – Knam Construction** *(Nov 2024 – Feb 2025)*  
+**📍 Software Developer (Freelance) – Knam Construction** *(Nov 2024 – Feb 2025)*  
 _Remote_  
 - Designed SiteIQ: site mgmt, payments, vendors, logistics  
 - Reduced paperwork by 70%, improved ops efficiency  
