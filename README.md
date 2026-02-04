@@ -11,7 +11,7 @@
 - [Ghibli Meme Maker](https://www.ghiblimemes.fun/) — Simple meme creator for Studio Ghibli–style images.
 
 ## Socials
-[🌐 Portfolio](https://www.altamsh.me)
-[💼 LinkedIn](https://www.linkedin.com/in/altamsh04)
-[🐦 X/Twitter](https://x.com/altamsh04)
-[📧 Email](bairagdaraltamsh@gmail.com)
+- [🌐 Portfolio](https://www.altamsh.me)
+- [💼 LinkedIn](https://www.linkedin.com/in/altamsh04)
+- [🐦 X/Twitter](https://x.com/altamsh04)
+- [📧 Email](bairagdaraltamsh@gmail.com)
