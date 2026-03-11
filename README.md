@@ -1,4 +1,4 @@
-# Altamsh Bairagdar
+# Hey I'am Altamsh 👋 
 
 Person who builds useful things with tech and whatever gets the job done.
 
@@ -8,9 +8,11 @@ Person who builds useful things with tech and whatever gets the job done.
 ---
 
 **Highlights**
-- 🏆 SIH Winner — [NatyamAI](https://github.com/altamsh04/natyam_ai), ML-based Bharatanatyam pose recognition
-- 📦 500+ Downloads — [Reminder-CLI](https://github.com/altamsh04/reminder-cli), CLI reminders & scheduling
-- 🔨 Building — [OpenLoL](https://github.com/altamsh04/openlol), Your machine, as an MCP Server & [OpenRef](https://github.com/altamsh04/openref/tree/main), agentic web search SDK
+- 🏆 SIH Winner — [NatyamAI](https://github.com/altamsh04/natyam_ai), ML-based Bharatanatyam pose recognition with Business approach.
+- 📦 500+ Downloads — [Reminder-CLI](https://github.com/altamsh04/reminder-cli), CLI reminders & scheduling.
+- 🔨 Building — 
+- 🔄 (350+ Downloads) [OpenLoL](https://github.com/altamsh04/openlol), Your machine, as an MCP Server 
+- 🔄 (300+ Downloads) [OpenRef](https://github.com/altamsh04/openref/tree/main), agentic web search SDK
 
 **More builds** — [ApiloAI](https://github.com/altamsh04/apilo-ai) · [InfraAI](https://infra-ai.altamsh.me/) · [Accuia](https://github.com/altamsh04/accuia) · [Deafso](https://github.com/altamsh04/deafso) · [AIPoweredLMS](https://github.com/altamsh04/aipoweredlms-backend)
 
